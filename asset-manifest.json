@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajitkumarpal1/-PhotoFolio/static/css/main.81e60dc7.css",
+    "main.js": "/ajitkumarpal1/-PhotoFolio/static/js/main.9a0459ee.js",
+    "static/media/bg.jpg": "/ajitkumarpal1/-PhotoFolio/static/media/bg.ff660e2f2ab8417380c7.jpg",
+    "static/media/back.svg": "/ajitkumarpal1/-PhotoFolio/static/media/back.a0715c81e1c67260ca0bc32711de78f1.svg",
+    "index.html": "/ajitkumarpal1/-PhotoFolio/index.html",
+    "main.81e60dc7.css.map": "/ajitkumarpal1/-PhotoFolio/static/css/main.81e60dc7.css.map",
+    "main.9a0459ee.js.map": "/ajitkumarpal1/-PhotoFolio/static/js/main.9a0459ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e60dc7.css",
+    "static/js/main.9a0459ee.js"
+  ]
+}
